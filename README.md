@@ -6,3 +6,5 @@ Hussein Tarek 2018030054
 Eng: MohammedMashoour
 
 It helps user create new contacts and see their contacts and send them msgs.
+
+You can see how to use it when running
